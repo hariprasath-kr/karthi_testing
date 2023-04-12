@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Router>
     <div>
+      <h1>rooot</h1>
       <Routes>
        <Route path='/a' Component={App} />
        </Routes>
