@@ -29,14 +29,14 @@ li{
   padding: 2%;
   display: inline-block;
 }
-.bodyyyt{
+.bodyy{
   background-image:url(./bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
   margin-left: auto;
   margin-right: auto;
-  position: relative;
+  
 }
 .content{
   padding-top: 8%;
@@ -46,4 +46,19 @@ li{
 
   font-size: xx-large;
   text-align: center;
+}
+.card{
+
+  width: 70%;
+  margin: auto;
+}
+.bdbx{
+  
+  transform: translateY(60%);
+}
+.card-header{
+  background-color: black;
+}
+.nav{
+  transform: translateX(-6%);
 }
